@@ -1,0 +1,3 @@
+marianaCdS - 84RaKyI3sgWHrn6N
+
+Chave - mongodb+srv://marianaCdS:84RaKyI3sgWHrn6N@cluster0.lchrj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
